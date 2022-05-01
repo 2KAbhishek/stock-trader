@@ -54,25 +54,8 @@ To install stock-trader, follow these steps:
 ```bash
 git clone https://github.com/2kabhishek/stock-trader
 cd stock-trader
-<install_command>
-```
-
-## Using stock-trader
-
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
+pip install -r requirements.txt
+python src/stock-trader.py
 ```
 
 ## How it was built
@@ -86,19 +69,6 @@ While building stock-trader the main challenges were `<issue/difficulty>`
 ## What I learned
 
 While building stock-trader I `<learned/accomplished>` about `<learning/accomplishment>`
-
-## What's next
-
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
 
 Hit the ⭐ button if you found this useful.
 
