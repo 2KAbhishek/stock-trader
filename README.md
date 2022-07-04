@@ -23,10 +23,10 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
+<h3>Trade Stocks with CRUD 💹📊</h3>
 
 <figure>
-  <img src= "images/screenshot.jpg" alt="stock-trader Demo" style="width:100%">
+  <img src= "images/screenshot.jpg" alt="stock-trader Demo">
   <br/>
   <figcaption>stock-trader screenshot</figcaption>
 </figure>
@@ -35,17 +35,17 @@
 
 ## What is this
 
-stock-trader is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+stock-trader is a GUI app that lets you fictionally trade real stocks.
 
 ## Inspiration
 
-stock-trader was inspired by `<reason/idea>`.
+Wanted to explore `tkinter` and `yfinance`
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `python`, `tkinter`, `yfinance` and `pandastable`.
 
 ## Getting stock-trader
 
@@ -60,7 +60,7 @@ python src/stock-trader.py
 
 ## How it was built
 
-stock-trader was built using `<tech/library>`
+stock-trader was built using `VS Code` and `python`.
 
 ## Challenges faced
 
@@ -68,7 +68,9 @@ While building stock-trader the main challenges were `<issue/difficulty>`
 
 ## What I learned
 
-While building stock-trader I `<learned/accomplished>` about `<learning/accomplishment>`
+- Learned about `yfinance`
+- Explored `tkinter`
+- Used `pandastable` to manage stock data
 
 Hit the ⭐ button if you found this useful.
 
