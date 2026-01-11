@@ -28,6 +28,6 @@ six==1.16.0
 tk==0.1.0
 toml==0.10.2
 tomli==1.2.2
-urllib3==2.6.0
+urllib3==2.6.3
 xlrd==2.0.1
 yfinance==0.1.67
